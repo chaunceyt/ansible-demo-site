@@ -4,7 +4,7 @@
  * Index file for ansible demo site.
  */
 
-$current_build = '1.0.2';
+$current_build = '1.0.3';
 $site_name = 'Ansible Rolling deployment Demo';
 
 
